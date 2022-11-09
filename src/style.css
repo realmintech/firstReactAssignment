@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+#all{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#picture{
+    width: 100%;
+}
+#name{
+    font-size: 30px;
+}
+
+.content{
+    padding: 15px 43px;
+}
